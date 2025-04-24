@@ -9,13 +9,16 @@ Did you sometimes just want some kind of high tech looking fun physical Fidget t
 
 # PCB-
 
-![image](https://github.com/user-attachments/assets/6d42785a-6d2a-4cc7-ac6c-5bc502378974)
+![image](https://github.com/user-attachments/assets/dac95b89-6349-46aa-82b7-ff4cda623194)
+
 
 
 
 # 3D View-
 
 ![image](https://github.com/user-attachments/assets/27884d36-369b-40ff-8058-e26c42528e26)
+![image](https://github.com/user-attachments/assets/6479663f-4078-45a0-a51c-23a38b1b9dbf)
+
 
 
 
