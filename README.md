@@ -3,17 +3,20 @@ Did you sometimes just want some kind of high tech looking fun physical Fidget t
 
 # Schematic-
 
-![image](https://github.com/user-attachments/assets/7100ef25-8a38-4b2d-bd67-9a9a88e42b80)
+![image](https://github.com/user-attachments/assets/cb9cd5d3-de40-4af5-b2a5-187571f5961f)
+
 
 
 # PCB-
 
-![image](https://github.com/user-attachments/assets/1e9190be-9f61-4be5-b8c6-c663cace1466)
+![image](https://github.com/user-attachments/assets/6d42785a-6d2a-4cc7-ac6c-5bc502378974)
+
 
 
 # 3D View-
 
-![image](https://github.com/user-attachments/assets/d2de85a6-feb1-4de5-93cc-ad71eb5a14f5)
+![image](https://github.com/user-attachments/assets/27884d36-369b-40ff-8058-e26c42528e26)
+
 
 
 # Description-
