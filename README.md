@@ -1,5 +1,6 @@
 # adjustFidget
 Did you sometimes just want some kind of high tech looking fun physical Fidget that you can adjust to how stressed you are, well here it is!
+https://hackclub.slack.com/archives/C08N2CN8E2C/p1745551739030339
 
 # Schematic-
 
